@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-```typescript
+```
 const kaif = {
   role: "Full Stack Developer",
   location: "Karachi, Pakistan 🇵🇰",
