@@ -87,11 +87,12 @@ const kaif = {
 
 <div align="center">
 
-![Muhammad Kaif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammadkaifattari&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6A00&icon_color=FF6A00&count_private=true)
+![Muhammad Kaif's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammadkaifattari&theme=github_dark)
 
 &nbsp;
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadkaifattari&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6A00&langs_count=8)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohammadkaifattari&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohammadkaifattari&theme=github_dark)
 
 </div>
 ---
