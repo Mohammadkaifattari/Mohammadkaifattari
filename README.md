@@ -87,14 +87,17 @@ const kaif = {
 
 <div align="center">
 
-![Muhammad Kaif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammadkaifattari&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6A00&icon_color=FF6A00)
+![Muhammad Kaif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammadkaifattari&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6A00&icon_color=FF6A00&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadkaifattari&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6A00)
+&nbsp;
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mohammadkaifattari&theme=dark&hide_border=true&background=0D1117&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadkaifattari&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6A00&langs_count=8)
+
+&nbsp;
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mohammadkaifattari&theme=dark&hide_border=true&background=0D1117&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00)](https://git.io/streak-stats)
 
 </div>
-
 ---
 
 ## 💼 Open To Work
