@@ -4,7 +4,7 @@
 ### Full Stack Developer — Karachi, Pakistan 🇵🇰
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6A00?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadkaif.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-kaif-60282a363)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammadkaif-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadkaif1291@gmail.com)
 
 </div>
