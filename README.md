@@ -105,7 +105,7 @@ const kaif = {
 If you're looking for a passionate Full Stack Developer in Karachi who ships clean, production-ready code — let's talk!
 
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6A00?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadkaif.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-kaif-60282a363)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammadkaif-dev)
 
 ---
 
