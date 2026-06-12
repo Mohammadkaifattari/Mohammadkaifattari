@@ -48,6 +48,7 @@ const kaif = {
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=gmail&logoColor=white)
 ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -69,7 +70,19 @@ const kaif = {
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF6A00?style=for-the-badge&logo=vercel&logoColor=white)](https://full-stack-saas-olx-web-app.vercel.app)
 
 ---
+### 🎯 Personal Portfolio v2 — Full Stack Site
+> Modern portfolio with custom admin dashboard
 
+- 🎛️ **Custom Admin Panel** — manage projects via dashboard, no code edits
+- 🗄️ **MongoDB Atlas** — dynamic project database
+- 🖼️ **Cloudinary** — direct image uploads from admin
+- 📧 **Nodemailer** — working contact form
+- ✨ **GSAP + Smooth Scroll** — premium animations
+- 🌗 **Dark/Light Theme Toggle**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6A00?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadkaif.vercel.app)
+
+---
 ### 🤖 ZAQSOFT — AI Digital Agency Website
 > Futuristic agency website with stunning animations
 
